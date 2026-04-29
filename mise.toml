@@ -1,7 +1,7 @@
 [tools]
 helm = "3.18.2"
 k3d = "5.8.3"
-krew = "0.4.5"
+krew = "0.5.0"
 kubectl = "1.33.2"
 kubens = "0.9.5"
 
